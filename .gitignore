@@ -1,0 +1,13 @@
+# Claude Code session data
+.claude/
+
+# Logs
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Windows
+Thumbs.db
